@@ -6,7 +6,7 @@
  
 
 
-change the hello word by sheng/branch1:wq
+change the Readme.txt by sheng2 first time
 
 
 
